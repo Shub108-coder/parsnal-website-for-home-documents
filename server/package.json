@@ -1,0 +1,19 @@
+{
+  "name": "website-for-home-docuemnts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shub108-coder/parsnal-website-for-home-documents.git"
+  },
+  "author": "shubham parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shub108-coder/parsnal-website-for-home-documents/issues"
+  },
+  "homepage": "https://github.com/Shub108-coder/parsnal-website-for-home-documents#readme",
+  "description": ""
+}
